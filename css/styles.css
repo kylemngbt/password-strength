@@ -57,3 +57,6 @@ button img {
   font-size: 15px;
 }
 
+::placeholder {
+  font-size: 15px;
+}
