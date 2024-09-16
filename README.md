@@ -1,1 +1,2 @@
-# password-strength
+# Password Strength Indicator
+A simple showcase of indicating password strength, the requirement for each strength level is only the length of the input, the input border color changes according to the password strength.
